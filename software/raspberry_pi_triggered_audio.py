@@ -15,7 +15,7 @@ time_to_wait = 10 #number of seconds to wait after audio runs
 
 #audio setup
 mixer.init()
-mixer.music.load('/home/administrator/raspberry_pi_triggered_audio/media/audio_track.mp3')
+mixer.music.load('/home/administrator/raspberry_pi_triggered_audio/software/media/audio_track.mp3')
 
 while True:
 	button.wait_for_press()
