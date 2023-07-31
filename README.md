@@ -2,7 +2,7 @@
 
 ## hardware components
 
-1.  [Raspberry Pi 3 B+](https://www.raspberrypi.com/products/raspberry-pi-3-model-b-plus/)
+1.  [Raspberry Pi 3 B+](https://www.raspberrypi.com/products/raspberry-pi-3-model-b-plus/) and micro SD card
 2.  [SICK WTT2SL-2P1192](https://www.sick.com/us/en/photoelectric-sensors/photoelectric-sensors/powerprox/wtt2sl-2p1192/p/p532248?ff_data=JmZmX2lkPXA1MzIyNDgmZmZfbWFzdGVySWQ9cDUzMjI0OCZmZl90aXRsZT1XVFQyU0wtMlAxMTkyJmZmX3F1ZXJ5PVdUVDJTTC0yUDExOTImZmZfcG9zPTEmZmZfb3JpZ1Bvcz0xJmZmX3BhZ2U9MSZmZl9wYWdlU2l6ZT0yNCZmZl9vcmlnUGFnZVNpemU9MjQmZmZfc2ltaT05Mi4w)
 3.  Resistor 1000 Ω 
 4.  Resistor 100 Ω
