@@ -17,6 +17,6 @@ if [ "$_IP" ]; then
   printf "My IP address is %s\n" "$_IP"
 fi
 
-sudo -H -u administrator /usr/bin/python /home/administrator/raspberry_pi_triggered_audio/raspberry_pi_triggered_audio.py &
+sudo -H -u administrator /usr/bin/python /home/administrator/raspberry_pi_triggered_audio/software/raspberry_pi_triggered_audio.py &
 
 exit 0
